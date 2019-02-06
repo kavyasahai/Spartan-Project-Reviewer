@@ -1,3 +1,5 @@
+# Spartan Project Reviewer
+
 ### Developers:
 Kavya Mohan Sahai
 
@@ -7,8 +9,6 @@ Priyal Agrawal
 
 Wayne Arnold
 
-
-### Spartan Project Reviewer
 
 ### Code Link:
 https://git.ng.bluemix.net/miguel.covarrubias/spartanprojectreviewer
