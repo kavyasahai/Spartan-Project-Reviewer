@@ -1,7 +1,10 @@
 # Developers:
 Kavya Mohan Sahai
+
 Miguel Covarrubias
+
 Priyal Agrawal
+
 Wayne Arnold
 
 
