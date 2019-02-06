@@ -1,20 +1,13 @@
-# Student Names:
-Priyal Agrawal
-
-Miguel Covarrubias
-
+# Developers:
 Kavya Mohan Sahai
-
+Miguel Covarrubias
+Priyal Agrawal
 Wayne Arnold
 
-# Project-Team-5
 
-### CMPE-272 Project Topics
+### Spartan Project Reviewer
 
-## Project Idea 1: 
-Spartan Project Reviewer  - APPROVED
-
-### Code Link: 
+### Code Link:
 https://git.ng.bluemix.net/miguel.covarrubias/spartanprojectreviewer
 
 ### Website Link: 
