@@ -23,7 +23,7 @@ In many of our university classes, we are required to work on projects. We often
 - This will be a Web Application where students and professors can create and review projects to work on.
 - The application will also act as recommendation engine for professor/TA to recommend the best ideas out of the submitted ones.
 
-How will it work:
+User Stories:
 - The professor starts by creating a workspace for the class e.g. cmpe-272-fall-2018. 
 - In this workspace, the professor adds a pool of optional projects ideas that students/teams can pick as their project. 
 - Students or/and teams create a sub-workspace with their team name e.g. Team-5.
