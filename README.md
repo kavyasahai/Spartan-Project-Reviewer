@@ -1,4 +1,4 @@
-# Developers:
+### Developers:
 Kavya Mohan Sahai
 
 Miguel Covarrubias
