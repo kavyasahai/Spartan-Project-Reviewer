@@ -9,6 +9,8 @@ Priyal Agrawal
 
 Wayne Arnold
 
+### Demo Link
+https://youtu.be/JaEs8Jxf7lQ
 
 ### Code Link:
 https://git.ng.bluemix.net/miguel.covarrubias/spartanprojectreviewer
@@ -34,4 +36,3 @@ User Stories:
 - The recommendation system will remember the choice and will use it's learning for better recommendation with each use.
 - Other students can see the ideas from different teams and they can do a thumbs up if they think the idea is very interesting. 
 - If a team has many very good project ideas, this team can allow other teams to pick any of their left over project ideas. 
-
